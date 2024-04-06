@@ -1,6 +1,0 @@
-const TopStoriesComponent = () => {
-
-    return <>
-
-    </>
-}
